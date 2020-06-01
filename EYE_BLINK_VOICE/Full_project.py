@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Display a slideshow from a list of filenames"""
-
+#for python3 and above version "import tkinter"
 import os
 import Tkinter
 
